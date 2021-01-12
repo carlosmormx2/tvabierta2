@@ -1,0 +1,55 @@
+﻿#EXTM3U
+ 
+#EXTINF:-1,CANAL 5HD
+https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/da0s08.m3u8?s=98GCr2M4LRyTmv3lrIEo2Q&e=1610484660
+
+#EXTINF:-1,CANAL 2Estrellas
+https://live.televisiongratishd.com/tvplus2021/57_.m3u8?token=qvQ-9g8kswyru0LQBDQJPw&expires=1610485397&ip=200.38.232.95
+
+#EXTINF:-1,CANAL 4 FORO TV
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CANAL 11 TV
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w191363600_b1300000_slesp.m3u8
+
+#EXTINF:-1,CANAL 22
+https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w372667869_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDM6MzI6NDcgUE0maGFzaF92YWx1ZT1hc0pZS0J2RVJXSTBPMzd4QnJyZ0pRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+#EXTINF:-1,CANAL 3 IMAGEN TV
+https://youtu.be/xd_T2A00cxA
+
+#EXTINF:-1,CANAL 6.2 MILENIO TV
+https://youtu.be/Wi0pEULGi5I
+
+#EXTINF:-1,CANAL 14
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+
+#EXTINF:-1,CANAL TV UNAM
+https://player-api.new.livestream.com/accounts/27177136/events/8970901/broadcasts/215919017.secure.m3u8?dw=14400&hdnea=st%3D1610466360~exp%3D1610468160~acl%3D%2Fi%2F27177136_8970901_lsik80pvay47lyz4f7e_1%40446654%2F%2A~hmac%3D5a90ce39fe99101934a9837ebd5a0fb5190ad0222d0e64ed1d36c2b52573a930&token=5ffdc564_032b48c831fa52808f2b2ccc31e6d8a7923fa488
+
+#EXTINF:-1,CANAL EL HERALDO
+https://dai.ly/x792196
+
+#EXTINF:-1,CANAL TELEFORMULA
+https://dai.ly/x7u0spq
+
+#EXTINF:-1,CANAL EXCSELSIOR TV
+https://youtu.be/kxZHi5qmPL0
+
+#EXTINF:-1,CANAL EL FINANCIERO BLOOMBERG
+https://vimeo.com/499596423
+
+#EXTINF:-1,CANAL 34 TV MEXIQUENSE
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1696656505.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDIxIDQ6Mjg6MTUgUE0maGFzaF92YWx1ZT1uSDRBOTRLcVZ6UVhGSnJybGFRcTF3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+#EXTINF:-1,CANAL 9.1 NUEVE MEXIQUENSE
+https://youtu.be/L-L5gK_KBTc
+
+#EXTINF:-1,CANAL AZTECA 1
+https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/ekqf2gz.m3u8?s=-VYk9UAK-MNWIPGFIp7ITQ&e=1610491157
+
+#EXTINF:-1,CANAL AZTECA 7
+https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/yv4z9a.m3u8?s=vwKfaeDTg72O9Pi8V8eBfg&e=1610491239
+
+#EXTINF:-1,CANAL 2 LAS ESTRELLAS
+https://masxmyeudj7bwsw.ezcdn421.net:8443/hls/dscs0wr97wf.m3u8?s=PK_WfP3Usq3OOTk54AiYvQ&e=1610491601
